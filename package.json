@@ -1,0 +1,41 @@
+{
+  "name": "v13_register_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Aello.js",
+  "scripts": {
+    "start": "nodemon node Aello.js",
+    "test": "."
+  },
+  "keywords": [
+    "v13",
+    "V13",
+    "Discord",
+    "Discordjs",
+    "Discord.js",
+    "DiscordBot",
+    "bot",
+    "Bot",
+    "Aello",
+    "Handler",
+    "Register",
+    "Kayıt",
+    "Türkçe",
+    "Gelişmiş",
+    "Mongo",
+    "Mongoose"
+  ],
+  "author": "`Aello - Aello - `Ael!o#0307",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.6.0",
+    "cron": "^1.8.2",
+    "discord.js": "^13.2.0-dev.1629072258.d289d5c",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.13.7",
+    "node-cache": "^5.1.2",
+    "nodemon": "^2.0.12"
+  }
+}

@@ -1,0 +1,35 @@
+{
+    "Server": "",
+    "VoiceChannel": "",
+    "Roles": {
+        "RegOfficer": "",
+        "Kayitsiz": "",
+        "Erkek": "",
+        "Kadin": "",
+        "Uye": "",
+        "Karantina": ""
+    },
+    "Channels": {
+        "Welcome": "",
+        "Log": ""
+    },
+    "memberAdd": {
+        "hgMesaji": "** {server} **sunucusuna hoş geldin {user}! Seninle birlikte ** {count} **kişi olduk. Hesap: {kontrol}", 
+        "guvenliMin": 5,
+        "_BENİ OKU":{ 
+            "Aciklama": "hgMesaji: üye katılınca atılacak hoş geldin mesajı içeriği |****| guvenliMin: sunucuya giren üyelerin en az kaç gün olması gerektiği.",
+
+            "UYARI": " {parametre} YAZDIKTAN SONRA BİTİŞİĞİNDE KARAKTER BULUNDURULMAMALIDIR. ÖRNEK OLARAK: ** {uTag} ** ŞEKLİNDE YAZINIZ.",
+
+            "{user}": "Gelen üyeyi etiketler.", 
+            "{uTag}": "Üyenin sadece adını gösterir (`Ael!o#0307 şeklinde).", 
+            "{server}": "Sunucu adı.", 
+            "{count}": "Sunucuda bulunan üye sayısını gösterir.", 
+            "\n": "Bir satır atlatır. (Satıra sığmaması durumunda otomatik olarak kendisi satır atlar.)",
+            "{kurulus}": "Hesabın kuruluş tarihini verir.",
+            "{kontrol}": "Hesabın yaşına göre 'Hesap: Güvenli/Tehlikeli' çıktısı verir.",
+            "{old}": "Hesabın kaç gün önce açıldığını gösterir. (Hesap Yaşı)"
+        }
+    },
+    "Tag": "☆"
+}
